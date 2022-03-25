@@ -1,0 +1,16 @@
+#include <iostream>
+
+int main(){
+	
+	int A,B,C;
+	
+	std::cin >> A >> B >> C;
+	
+	if(2<= A,B,C <= 10000){
+		
+		
+	}
+	else std::cout << "error" << std::endl;
+	
+	return 0;
+}
